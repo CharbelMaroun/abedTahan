@@ -1,0 +1,58 @@
+.list {
+    float: right;
+}
+
+.nav {
+  
+    height: 10px;
+    line-height: 8px;
+    font-size: small;
+    padding-right: 5%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav a:hover {
+    color: black;
+}
+
+.items {
+    background-color: #0063a7;
+}
+
+.header1 {
+    border-top: 0.5px solid white;
+    background-color: #0063a7;
+    color: white;
+}
+
+.form {
+    margin-left: 3%;
+    margin-right: 5.5%;
+} 
+
+.section2 {
+    float: right;
+}
+
+.header {
+    margin-top: 7px;
+}
+
+.input {
+    max-width: 50%;
+    margin: 15px;
+}
+
+.flex {
+    margin-left: 1%;
+    margin-right: 2.5%;
+} 
+
+.Header{
+    background-color: #0063a7;
+    color: white;
+}
+
